@@ -1,4 +1,4 @@
-# CRUD_ARGOCD_WORKFLOW
+## CRUD_ARGOCD_WORKFLOW
 
 ## Argocd
 Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. 
@@ -40,7 +40,7 @@ $ python3 crud_workflow.py
 
 Uncomment the specific create_workflow , list_workflows, update_workflow and delete_workflow as per operation
 
-## NOTE
+#### NOTE
 ```
 Use the Bearer Token in case of need
 ```
